@@ -1,0 +1,20 @@
+.containerSlide{
+  
+   
+    margin: auto;
+      justify-content: center;
+    background-size: cover;
+    position: relative;
+    z-index: -2;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0; 
+    text-align: center;
+    height: 100px;
+    width: 100%;
+  }
+  
+
+
+  
